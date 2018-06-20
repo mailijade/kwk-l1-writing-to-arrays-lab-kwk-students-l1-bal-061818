@@ -9,4 +9,4 @@ else
   total=total
 end
 
-puts totalr
+puts total
